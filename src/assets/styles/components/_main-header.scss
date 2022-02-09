@@ -1,0 +1,41 @@
+.app-header {
+
+    .logo{
+font-size: 2.5em;
+    }
+    height:90vh;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+    .hero-details{
+        display: flex;
+        justify-content: space-between;
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 30px;
+        margin-top: 100px;
+        width:50ch;
+        h1{
+            font-size: 2.5em;
+        }
+        p{
+            font-size: 20px;
+        }
+        button{
+            padding: 10px 20px;
+            font-size: 20px;
+            color: white;
+            background-color: rgba(255, 255, 255, 0);
+            border: 1px solid white;
+        }
+    }
+    .hero-container{
+        margin-left: 50px;
+        margin-top: 50px;
+    }
+    box-shadow: 0px -3px 6px 0px;
+}
+

@@ -1,0 +1,19 @@
+.user-preview-container{
+    display:flex;
+    justify-content:flex-start;
+    background-color: antiquewhite;
+    align-items:center;
+    padding: 20px;
+    flex-direction: column;
+    box-shadow: 0px 0px 4px -1px;
+    // margin: 0 auto;
+    // width: 30vw;
+    height:100vh;
+
+    .user-preview{
+        h3 , h2 {
+            padding: 10px;
+            font-size: 2em;
+        }
+    }
+}

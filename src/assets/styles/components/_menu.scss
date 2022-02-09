@@ -1,0 +1,55 @@
+.menu-container{
+    display: flex;
+    align-items: center;
+    gap: 100px;
+    color: rgb(179, 177, 177);
+    background-color: #111111;
+    padding: 100px;
+    .menu-details{
+        width: 50ch;
+        color: white;
+        align-self: flex-start;
+        h1{
+            font-size: 2.5em;
+            padding-bottom: 20px;
+    font-family: Spartan-bold;
+
+        }
+        p{
+  font-family: Spartan-light;
+
+        }
+    }
+    .menu-dishes-container{
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+    }
+    .menu-dishes:nth-child(2){
+        border-bottom: 1px solid rgb(105, 105, 105);
+    }
+    .menu-dishes:nth-child(1){
+        border-bottom: 1px solid rgb(105, 105, 105);
+    }
+    .menu-dishes{
+        display: flex;
+        gap: 40px;
+        width: 50ch;
+        padding: 0 0 20px 0;
+        h3{
+            font-weight: bold;
+            color: white;
+    margin-bottom: 10px;
+
+        }
+        p{
+            font-size: 12px;
+        }
+    .dish-img{
+        width: 30%;
+    }
+    
+    }
+
+
+}

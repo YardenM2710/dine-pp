@@ -1,0 +1,17 @@
+.transfer-fund{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    .transfer-controll{
+        display: flex;
+        align-items: center;
+        button{
+            margin-left: 20px;
+        }
+    }
+}
+
+.statistic-page{
+    height: 100vh;
+}

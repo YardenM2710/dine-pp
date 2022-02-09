@@ -1,0 +1,20 @@
+// Setup
+@import "setup/variables";
+@import "setup/functions";
+@import "setup/mixins";
+
+// Basics
+@import "basics/typography";
+@import "basics/base";
+@import "basics/helpers";
+@import "basics/layout";
+@import "basics/modals";
+@import "basics/animations";
+
+//components
+
+@import "components/main-header";
+@import "components/cards";
+@import "components/menu";
+@import "components/reservation";
+@import "components/footer";

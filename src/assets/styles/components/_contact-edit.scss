@@ -1,0 +1,24 @@
+.contact-edit {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    height:87vh;
+    form {
+        margin-top: 40px;
+        display: flex;
+        flex-direction: column;
+        gap: 5px;
+        > label {
+            margin-top: 20px;
+        }
+
+        button:last-child {
+            margin-top: 50px;
+        }
+    }
+}
+.css-1x51dt5-MuiInputBase-input-MuiInput-input{
+    padding: 4px 7px 5px!important;
+    margin-right: 5px!important;
+}

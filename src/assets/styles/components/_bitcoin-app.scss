@@ -1,0 +1,80 @@
+.dark-mode{
+background-color: rgb(36, 36, 36);
+color: rgba(255, 255, 255, 0.61) !important;
+
+.css-1x51dt5-MuiInputBase-input-MuiInput-input{
+    color: rgba(255, 255, 255, 0.61) !important;
+}
+button{
+    color: #ff8080!important;
+    border: none
+}
+button:hover{
+    border: none
+}
+.app-header{
+background-color: rgba(58, 58, 58, 0.747);
+.logo{ 
+    color: #ff8080;
+}
+
+}
+
+.login-page{
+    color: #ff8080;
+    input{
+        color: white !important;
+        border: white !important;
+    }
+
+    button{
+background-color: #ff5252;
+color: white!important;   
+    }
+}
+.css-2s90m6-MuiAvatar-root{
+    background-color: #3f3f3f!important;
+    color: #ff8080;
+
+}
+.user-preview-container{
+    background-color: rgb(56, 47, 47);
+    color: #ff8080;
+    span{
+        color: rgba(255, 255, 255, 0.719);
+    }
+}
+
+
+.contact-details{
+    background-color: #3f3f3f!important;
+    color: #ff8080;
+    span{
+        color: rgb(221, 221, 221) ;
+        font-weight: 400;
+    }
+    button{
+        color: #fff !important;
+        background-color: #ff8080;
+    }
+    
+    .input placeholder{
+        color: #fff !important;
+    }
+    .css-zcbmsk-MuiButtonBase-root-MuiButton-root{
+        background-color: #ff8080 !important;
+
+    }
+}
+.list-item:hover{
+    background-color: rgba(104, 104, 104, 0.178);
+}
+
+.transfer-fund{
+    h2{
+        color:rgb(221, 221, 221) ;
+        ;
+    }
+}
+
+}

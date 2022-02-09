@@ -1,0 +1,17 @@
+.contact-list{
+    width: 100%;
+    height: 80vh;
+    .list-item{
+        transition: 0.2s;
+        cursor: pointer;
+    }
+
+    .list-item:hover{
+        background-color: rgba(224, 224, 224, 0.356);
+    }
+}
+.action-btns{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
